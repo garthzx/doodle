@@ -20,7 +20,7 @@
 ## Demo
 Download demo.mp4 to see.
 
-> *Please note that can still be improved in many ways. I'm working on that.*
+> *Please note that the project can still be improved in many ways. I'm working on that.*
 
 #### Description
 Doodle is a simple search engine that is similar in features as Google's. It stores sites and images

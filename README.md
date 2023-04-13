@@ -17,7 +17,7 @@
   </p>
 </div>
 
-![Demo]("https://github.com/garthzx/doodle/demo/demo.mp4")
+![Demo]("doodle/demo/demo.mp4")
 
 > *Please note that can still be improved in many ways. I'm working on that.*
 

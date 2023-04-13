@@ -17,7 +17,10 @@
   </p>
 </div>
 
-![Demo]("doodle/demo/demo.mp4")
+## Demo
+<video width="480" height="360" controls>
+  <source src="demo/demo.mp4" type="video/mp4">
+</video>
 
 > *Please note that can still be improved in many ways. I'm working on that.*
 

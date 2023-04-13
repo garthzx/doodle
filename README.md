@@ -18,7 +18,7 @@
 </div>
 
 ## Demo
-![demo]("https://github.com/garthzx/doodle/demo.mp4")
+<video src='demo.mp4'/>
 
 > *Please note that can still be improved in many ways. I'm working on that.*
 

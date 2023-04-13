@@ -3,17 +3,17 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/garthzx/doodle">
     <img src="assets/images/doodleLogo.png" alt="Logo" width="450px" height="135px">
   </a>
   <p align="center">
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/garthzx/doodle/#Demo">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/garthzx/doodle/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/garthzx/doodle/issues">Request Feature</a>
   </p>
 </div>
 

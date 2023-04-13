@@ -18,13 +18,7 @@
 </div>
 
 ## Demo
-<<<<<<< HEAD
-<video src="demo.mp4" controls="controls" style="max-width: 730px;"></video>
-=======
-
-<video src="https://github.com/garthzx/doodle/demo/demo.mp4" controls="controls" style="max-width: 730px;">
-</video>
->>>>>>> 50fc1006ca08a9665ef7ab4172406b30318cc1c1
+[demo]("https://github.com/garthzx/doodle/demo.mp4")
 
 > *Please note that can still be improved in many ways. I'm working on that.*
 

@@ -18,7 +18,7 @@
 </div>
 
 ## Demo
-<video src='demo.mp4'/>
+Download demo.mp4 to see.
 
 > *Please note that can still be improved in many ways. I'm working on that.*
 

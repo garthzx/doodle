@@ -20,6 +20,11 @@
 ## Demo
 Download demo.mp4 to see.
 
+<img
+  src="screenshots/1.png"
+  alt="Screenshot"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 600px">
 > *Please note that the project can still be improved in many ways. I'm working on that.*
 
 #### Description

@@ -18,9 +18,8 @@
 </div>
 
 ## Demo
-<video width="480" height="360" controls>
-  <source src="demo/demo.mp4" type="video/mp4">
-</video>
+
+![demo]("https://github.com/garthzx/doodle/tree/main/demo")
 
 > *Please note that can still be improved in many ways. I'm working on that.*
 

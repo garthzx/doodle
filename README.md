@@ -39,5 +39,13 @@ up to learning PHP, databases, and frontend as well.
 3. Move the project to C::\\Users\xampp\htdocs\
 4. Go to your browser, navigate to localhost/[project-name]
 
+##### Configuration
+If you have a different port in use for phpmyadmin, you can configure it in `/config.php` by
+changing the port value in the connection string:
+
+```toml
+  $conn = new PDO("mysql:dbname=doodle;host=localhost;port=3306", "root", "");
+```
+
 ## Contact
 Garth - [Facebook](https://www.facebook.com/garthzx/) - [Instagram](https://www.instagram.com/garthzx/)
